@@ -1,0 +1,1 @@
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[4]$ -- Services Revenue (Excl VBR)

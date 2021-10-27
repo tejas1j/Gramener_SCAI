@@ -1,0 +1,11 @@
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[2]$TOTAL REVENUE
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[3]$ - Product Revenue
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[363]$ - Services Revenue
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[4]$ -- Services Revenue (Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[367]$ -- Consulting and Technical Services Revenue (Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[5]$ --- Consulting Services Revenue (Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[13]$ --- Technical Services Revenue (Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[31]$ --- Support Services(Excl VBR) 
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[32]$ --- Managed Services(Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[6]$ --- Other (Excl VBR)
+//*[@id="gwt-debug-Income_Stmt-webChild-0"]/div/div[2]/div/div/div/img[294]$ -- Services VBR/Agency
